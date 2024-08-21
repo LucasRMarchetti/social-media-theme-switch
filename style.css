@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    display: flexbox;
+}
+
+body{
+    justify-content: center;
+    display: flexbox;
+}
+
+.divisao_indicadores p{
+    color: hsl(228, 34%, 66%);
+    padding-left: 170px;
+    padding-top: 10px;
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h2{
+    color: hsl(0, 0%, 100%) ;
+    padding-top: 30px;
+    padding-left: 170px;
+}
+
+section{
+ height: 400px;
+ width: 1500px;
+ background-color: #a7a7a7;
+ outline: 5px solid tomato;
+}
+
+section1{
+    height: 280px;
+}
+
+section2{
+    height: 400px;
+}
+
+.divisao_indicadores{
+ width: 100%;
+ background-color: hsl(230, 17%, 14%);
+ height: 100px;
+}
+
+.bai-jamjuree-regular {
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .bai-jamjuree-semibold {
+    font-family: "Bai Jamjuree", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .theme{
+    padding-left: 1600px;
+  }
